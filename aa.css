@@ -21,7 +21,8 @@ div{
   }
 h1,.a,h2{text-align: right;}
 .b{
-    padding-left: 5%;
+    padding: 20px 10% 20px 10%;
+    background-color: rgb(166, 210, 166);
 }
 body{
     padding: 0 2% 0 2%;
@@ -45,6 +46,7 @@ body{
 .title{
     font-family: cursive,initial,italic;
     color:  rgb(13, 0, 131);
+    text-align: center;
 }
 html{
     background-color: rgba(255, 220, 250, 0.538);
@@ -62,4 +64,8 @@ html{
 }
 html{
     font-size: xx-large;
+}
+h3{
+    text-align: center;
+    color: rgb(23, 0, 193);
 }
